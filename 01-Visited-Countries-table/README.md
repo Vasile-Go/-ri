@@ -8,7 +8,7 @@
 
 ## Live Preview
 
-<a href="https://html-preview.github.io/?" target="_blank">"Hello World!"</a>
+<a href="https://html-preview.github.io/?https://github.com/Vasile-Go/ODC-Homeworks/blob/main/01-Visited-Countries-table/Hello%20World!.html" target="_blank">"Hello World!"</a>
 
 ## Screenshot
 
