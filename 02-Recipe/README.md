@@ -1,4 +1,4 @@
-# Recipe for sugar-free Tiramisu
+# Recipe for sugar-free Italian Tiramisu
 
 ## I created an HTML document that will represent a page with a recipe for a certain dish according to the following structure:
 
@@ -14,8 +14,8 @@
 
 ## Live Preview
 
-<a href="https://html-preview.github.io/?url=https://github.com/Vasile-Go/ODC-Practical-exercises/blob/main/02-Recipe/Tiramisu.html" target="_blank">Recipe for sugar-free Tiramisu</a>
+<a href="https://html-preview.github.io/?url=https://github.com/Vasile-Go/ODC-Practical-exercises/blob/main/02-Recipe/Tiramisu.html" target="_blank">Recipe for sugar-free Italian Tiramisu</a>
 
 ## Screenshot
 
-!["Recipe for sugar-free Tiramisu" page screenshot](./Tiramisu_HTML.png)
+!["Recipe for sugar-free Italian Tiramisu" page screenshot](./Tiramisu_HTML.png)
