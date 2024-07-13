@@ -18,4 +18,4 @@
 
 ## Screenshot
 
-!["Hello World!" page screenshot](./)
+!["Hello World!" page screenshot](./Tiramisu_HTML.png)
