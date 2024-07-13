@@ -1,10 +1,11 @@
-# My Portfolio V1
+# The first version of the portfolio
 
-## I am creating my first HTML document following the structure below:
+## I built a webpage titled "My Portfolio" following this structure:
 
-- [x] Heading 1 - "Hello World!", a paragraph with a description (1 sentence)
-- [x] A list of favorite fruits
-- [x] A table with the countries I have visited and in which year (with images)
+- [x] Header: Title, navigation to sections: Home, Skills, Projects, Contact
+- [x] The "Skills" and "Projects" sections have a title, description, and a list
+- [x] The "Contact" section contains a contact form with fields: name, phone number, email, reason for contact (select one option - interview or hiring)
+- [x] The footer contains text and a link to the LinkedIn page.
 
 ## Live Preview
 
