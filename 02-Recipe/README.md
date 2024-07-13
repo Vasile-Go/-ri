@@ -14,7 +14,7 @@
 
 ## Live Preview
 
-<a href="https://html-preview.github.io/?url="</a>
+<a href="https://html-preview.github.io/?url=https://github.com/Vasile-Go/ODC-Practical-exercises/blob/main/02-Recipe/Tiramisu.html"</a>
 
 ## Screenshot
 
