@@ -13,4 +13,4 @@
 
 ## Screenshot
 
-!["My Portfolio V1" page screenshot](./MyPortfolioV1.html.png)
+!["My Portfolio V2" page screenshot](./Screenshot_MyPortfolioV2.html.png)
