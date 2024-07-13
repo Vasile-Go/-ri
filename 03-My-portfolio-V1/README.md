@@ -8,8 +8,8 @@
 
 ## Live Preview
 
-<a href="https://html-preview.github.io/?url=https://github.com/Vasile-Go/ODC-Homeworks/blob/main/01-Visited-Countries-table/Hello%20World!.html" target="_blank">"Hello World!"</a>
+<a href="https://html-preview.github.io/?url=https://github.com/Vasile-Go/ODC-Practical-exercises/blob/main/03-My-portfolio-V1/MyPortfolioV1.html" target="_blank">My Portfolio V1</a>
 
 ## Screenshot
 
-!["Hello World!" page screenshot](./Visited-Countries-table_HelloWorld!.png)
+!["My Portfolio V1" page screenshot](./)
