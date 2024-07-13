@@ -12,4 +12,4 @@
 
 ## Screenshot
 
-!["Hello World!" page screenshot](./)
+!["Hello World!" page screenshot](./Visited-Countries-table_HelloWorld!.png)
