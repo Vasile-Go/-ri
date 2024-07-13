@@ -14,8 +14,8 @@
 
 ## Live Preview
 
-<a href="https://html-preview.github.io/?url=https://github.com/Vasile-Go/ODC-Practical-exercises/blob/main/02-Recipe/Tiramisu.html"</a>
+<a href="https://html-preview.github.io/?url=https://github.com/Vasile-Go/ODC-Practical-exercises/blob/main/02-Recipe/Tiramisu.html" target="_blank">Recipe for sugar-free Tiramisu</a>
 
 ## Screenshot
 
-!["Hello World!" page screenshot](./Tiramisu_HTML.png)
+!["Recipe for sugar-free Tiramisu" page screenshot](./Tiramisu_HTML.png)
