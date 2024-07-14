@@ -5,8 +5,8 @@
 #### Task #1
 - [x] To include in the code the tags: "main" "header" "section" "footer"
 #### Task #2
-
-- [x] The "Skills" and "Projects" sections have a title, description, and a list
+- [x] To create another page only with the section: About me. Using the 'article' tag. To include the initial navigation and footer in this page. To include 'About Me' in the navigation of the first page in such a way that it becomes a website with 2 pages with the same navigation menu and the links work between them.
+#### Task #2.1
 - [x] The "Contact" section contains a contact form with fields: name, phone number, email, reason for contact (select one option - interview or hiring)
 - [x] The footer contains text and a link to the LinkedIn page.
 
