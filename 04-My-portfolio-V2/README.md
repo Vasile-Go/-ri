@@ -1,8 +1,11 @@
-# The first version of My Portfolio
+# The second version of my portfolio
 
 ## I built a webpage titled "My Portfolio" following this structure:
 
-- [x] Header: Title, navigation to sections: Home, Skills, Projects, Contact
+#### Task #1
+
+- [x] To include in the code the tags: "<main> <header> <section> <footer>"
+
 - [x] The "Skills" and "Projects" sections have a title, description, and a list
 - [x] The "Contact" section contains a contact form with fields: name, phone number, email, reason for contact (select one option - interview or hiring)
 - [x] The footer contains text and a link to the LinkedIn page.
