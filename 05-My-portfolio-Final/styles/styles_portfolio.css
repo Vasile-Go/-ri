@@ -1,0 +1,35 @@
+/* Aliniere justificată pentru toate paragrafele */
+p {
+    text-align: justify;
+}
+
+/* Stil pentru toate titlurile h1-h6 */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    color: #370050;
+}
+
+/* Stil specific pentru h1 */
+h1 {
+    border-top: 2px solid #370050;
+    border-bottom: 2px solid #370050;
+}
+
+/* Stil pentru toate linkurile */
+a {
+    color: #17AB33;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+/* Eliminarea semnelor din liste */
+ul, ol {
+    list-style-type: none;
+}
+
+/* Stil pentru butoane */
+button {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
