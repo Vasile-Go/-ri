@@ -17,8 +17,8 @@
 
 ## Live Preview
 
-<a href="https://html-preview.github.io/?url=https://github.com/Vasile-Go/ODC-Practical-exercises/blob/main/05-My-portfolio-Final/MyPortfolioFinal.html" target="_blank">My Portfolio V2</a>
+<a href="https://html-preview.github.io/?url=https://github.com/Vasile-Go/ODC-Practical-exercises/blob/main/05-My-portfolio-Final/MyPortfolioFinal.html" target="_blank">My Portfolio Final</a>
 
 ## Screenshot
 
-!["My Portfolio V2" page screenshot](./Screenshot_MyPortfolioV2.html.png)
+!["My Portfolio Final" page screenshot](./Screenshot_MyPortfolioV2.html.png)
