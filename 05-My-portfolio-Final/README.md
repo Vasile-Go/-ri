@@ -1,4 +1,4 @@
-# The second version of my portfolio
+# The final version of my portfolio
 
 ## I built a webpage titled "My Portfolio" following this structure:
 
