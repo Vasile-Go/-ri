@@ -21,4 +21,4 @@
 
 ## Screenshot
 
-!["My Portfolio Final" page screenshot](pages/Screenshot_MyPortfolioFinal.html.png)
+!["My Portfolio Final" page screenshot](images/Screenshot_MyPortfolioFinal.html.png)
