@@ -1,19 +1,14 @@
 # The final version of my portfolio
 
-## I built a webpage titled "My Portfolio" following this structure:
+## To style the typography of the "My Portfolio" and "About Me" pages using a single external CSS file for both documents as follows:
 
-#### Task #1
-- [x] To include in the code the tags: 'main' 'header' 'section' 'footer'
-#### Task #2
-- [x] To create another page only with the section: About me. Using the 'article' tag. To include the initial navigation and footer in this page. To include 'About Me' in the navigation of the first page in such a way that it becomes a website with 2 pages with the same navigation menu and the links work between them.
-#### Task #2.1
-- [x] To include the first projects: 'Table with countries', 'Recipe', 'My Portfolio V1', 'Table in Table' in the portfolio (with image) which will be a link that opens the pages in a separate tab.
-#### Task #3
-- [x] To create an HTML page with nested tables. A 3x3 table with another 2x2 table in each cell, and in each cell of that table a 1x1 table. Use the 'border' attribute for easier visualization.
-#### Task #4
-- [x] In the bottom right corner of the 'My Portfolio' page, place a 'back to top' button that will take you to the top of the page.
-#### Task #5
-- [x] In the contact section, integrate icons. 
+- [x] All paragraphs should be justified.
+- [x] All h1-h6 headings should be bold and colored #370050, and the h1 heading should have lines both above and below it with a thickness of 2px.
+- [x] All links should be colored #17AB33, in uppercase, and not underlined.
+- [x] Lists should have no markers in front of them.
+- [x] Buttons should have their text in italic, underlined, and bold.
+- [x] To use Font Awesome icons.
+- [x] To style the recipe page to your liking. 
 
 ## Live Preview
 
